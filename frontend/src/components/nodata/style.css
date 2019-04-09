@@ -1,0 +1,18 @@
+.one-no-data-container{
+  display: flex;
+  flex-direction: row;
+  padding: 20px 10px 20px 10px;
+  justify-content: center;
+  align-items: center;
+  font-size: 12px;
+  height: 96%;
+}
+
+.one-no-data-icon{
+  width: 25px;
+  margin-right: 5px;
+}
+
+.one-no-data-icon img{
+  width: 25px;
+}

@@ -1,0 +1,82 @@
+.app-left-actions{
+  width: 54px;
+  height: 100%;
+  position: relative;
+}
+
+.avatar-container{
+  width: 54px;
+  height: 54px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 1px solid #dcdcdc;
+}
+
+.avatar-container img{
+  width: 27px;
+  border-radius: 20px;
+}
+
+.app-line-color{
+  width: 6px;
+  height: 100%;
+  background-color: #dcdcdc;
+}
+
+.app-nav{
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.app-nav a{
+  color: #586069;
+  font-size: 12px;
+  text-decoration: none;
+}
+
+.app-nav img{
+  width: 20px;
+}
+
+.app-logo-container{
+  width: 54px;
+  height: 54px;
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-top: 1px solid #dcdcdc;
+}
+
+.app-logo-container img{
+  width: 27px;
+  height: 27px;
+}
+
+
+.app-add-card{
+  width: 54px;
+  height: 54px;
+  position: absolute;
+  bottom: 54px;
+  left: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-top: 1px solid #dcdcdc;
+  cursor: pointer;
+}
+
+.app-add-card img{
+  width: 27px;
+}
+
+.app-nav-active{
+  text-decoration: underline !important;
+  font-weight: 900;
+}

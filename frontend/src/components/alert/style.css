@@ -1,0 +1,18 @@
+.alert-extends{
+  position: fixed;
+  width: 450px;
+  height: 100%;
+  top: 0px;
+  background: rgba(0,0,0,0.0);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.alert-extends-content{
+  padding: 10px;
+  font-size: 14px;
+  background: rgba(0,0,0,0.6);
+  color: #ffffff;
+}

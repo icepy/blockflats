@@ -1,0 +1,30 @@
+.pin-search-container{
+  margin-bottom: 10px;
+  position: relative;
+  border: 1px solid #dcdcdc;
+  border-radius: 5px;
+}
+
+.pin-search-input{
+  padding: 5px;
+  width: 380px;
+  outline: none;
+  color: #586069;
+  font-size: 14px;
+  margin-left: 25px;
+  border: none;
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+
+.pin-search-icon {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  left: 5px;
+  top: 2px;
+}
+
+.pin-search-icon img {
+  width: 25px;
+}

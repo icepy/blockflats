@@ -1,0 +1,17 @@
+.home-container{
+  width: 450px;
+  height: 100%;
+}
+
+.home-more-container{
+  padding: 10px;
+}
+
+.home-star-container{
+  font-size: 14px;
+}
+
+.home-star-container a{
+  color: #586069;
+  text-decoration: none;
+}

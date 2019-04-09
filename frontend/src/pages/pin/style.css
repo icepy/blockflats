@@ -1,0 +1,22 @@
+.pin-stars-parent-container{
+  height: 100%;
+}
+.pin-container{
+  width: 450px;
+  height: 100%;
+}
+
+.pin-stars-container{
+  padding: 10px;
+}
+
+.pin-stars-container{
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 14px;
+}
+
+.pin-stars-container a{
+  color: #586069;
+  text-decoration: none;
+}
