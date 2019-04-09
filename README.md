@@ -1,6 +1,8 @@
 # Blockflats
 
-简单易用可自己独立部署的 github stars 管理项目；
+![img](https://img.shields.io/github/license/icepy/blockflats.svg) ![img](https://img.shields.io/github/last-commit/icepy/blockflats.svg)
+
+简单易用可独立部署的 github stars 管理项目；
 
 ![img](./blockflats.gif)
 
@@ -52,5 +54,7 @@ $ cd frontend
 $ npm start
 ```
 
+### 如何授权验证及开发
+
 - 在浏览器中先使用 `http://localhost:8999/` 进行授权验证
-- 授权验证通过后使用 `http://localhost:3000/` 进行开发
+- 授权验证通过后使用 `http://localhost:3000/` 进行开发（frontend）
