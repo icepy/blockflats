@@ -1,4 +1,4 @@
-# Blockflats
+# github-stars
 
 ![img](https://img.shields.io/github/license/icepy/blockflats.svg) ![img](https://img.shields.io/github/last-commit/icepy/blockflats.svg)
 
